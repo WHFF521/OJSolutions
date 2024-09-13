@@ -8,3 +8,6 @@ record my solutions.
 
 ### 深搜
 [HDOJ 1010 Tempter of the Bone 深搜&剪枝](https://blog.whff521.xyz/2024/09/12/HDOJ-1010-Tempter-of-the-Bone-%E6%B7%B1%E6%90%9C-%E5%89%AA%E6%9E%9D/)
+
+### 动态规划
+[HDU 1011 Starship Troopers 树形DP](https://blog.whff521.xyz/2024/09/13/HDU-1011-Starship-Troopers-%E6%A0%91%E5%BD%A2DP/)
