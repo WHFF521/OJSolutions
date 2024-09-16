@@ -21,6 +21,7 @@ void pre_work(){
             catalan[i][j] = tmp%10;
             tmp/=10;
         }
+        // mxlen is big enough, so tmp will be 0 after the loop
         j=mxlen-1;
         while(catalan[i][j]==0) j--;
         while(j>=0){
@@ -28,6 +29,7 @@ void pre_work(){
             catalan[i][j--] = tmp/(i+1);  
             if(tmp>=i+1) tmp%=(i+1);
         }
+        // Catalan number is a integer, so remain is 0
     }
 }
 int main(){
