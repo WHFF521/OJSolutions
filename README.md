@@ -21,3 +21,6 @@ record my solutions.
 ### 最长上升子序列
 
 [HDU 1025 longest increasing subsequence](https://blog.whff521.xyz/2024/09/17/HDU-1025-longest-increasing-subsequence/)
+
+### 摩尔投票法——寻找数列主元素
+[HDU 1029](https://blog.whff521.xyz/2024/10/08/HDU-1029-%E5%AF%BB%E6%89%BE%E6%95%B0%E5%88%97%E4%B8%BB%E5%85%83%E7%B4%A0/)
