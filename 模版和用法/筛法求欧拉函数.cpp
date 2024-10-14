@@ -1,10 +1,10 @@
 #include<vector>
 using namespace std;
-const int N = 1e6 + 5;
+const int mxlen = 1e6 + 5;
 vector<int> pri;
-bool not_prime[N];
-int phi[N];
-
+bool not_prime[mxlen];
+int phi[mxlen];
+// 小于等于n与n互质的数的个数
 void pre(int n) {
   phi[1] = 1;
   for (int i = 2; i <= n; i++) {
