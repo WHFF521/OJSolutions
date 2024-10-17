@@ -11,6 +11,7 @@ int dp[mxlen];
 int num[4];
 int money[] = {0,1,2,5};
 int main(){
+    // 面值为1.2.5的硬币不能组成的最小面值
     int n1,n2,n5;
     while(1){
         memset(dp,0,sizeof(dp));
