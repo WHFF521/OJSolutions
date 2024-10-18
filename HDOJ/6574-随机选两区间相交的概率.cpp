@@ -20,7 +20,9 @@ void exgcd(int a, int b, int& x, int& y) {
   exgcd(b, a % b, y, x);
   y -= a / b * x;
 }
-
+// 1-两区间不相交的概率
+// min(R1,R2)<max(L1,L2)
+// 即找两个数a,b, a<b
 int main(){
     int n;
     while(scanf("%d",&n)!=EOF){
