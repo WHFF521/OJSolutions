@@ -55,6 +55,9 @@ int query(int k,int l_now,int r_now,int l_need,int r_need,int val){
     if(r_need>mid) ans = (ans+query(k<<1|1,mid+1,r_now,l_need,r_need,val))%mod;
     return ans%mod;
 }
+
+// 题目会有将一段区间变成同一个数的操作
+// flag数组用来标记当前区间是否是同一个数
 int main(){
     while(scanf("%d%d",&n,&m)&&(n||m)){
         memset(t,0,sizeof(t));
