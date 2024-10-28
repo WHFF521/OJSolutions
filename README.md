@@ -28,3 +28,5 @@ record my solutions.
 
 ### 摩尔投票法——寻找数列主元素
 [HDU 1029](https://blog.whff521.xyz/2024/10/08/HDU-1029-%E5%AF%BB%E6%89%BE%E6%95%B0%E5%88%97%E4%B8%BB%E5%85%83%E7%B4%A0/)
+
+### [CCSP2024 赛后回忆](https://blog.whff521.xyz/2024/10/23/CCSP2024-%E8%B5%9B%E5%90%8E%E5%9B%9E%E5%BF%86/)
