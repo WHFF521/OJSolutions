@@ -14,6 +14,8 @@ record my solutions.
 
 [HDU 1085 multiple knapsack problem](https://blog.whff521.xyz/2024/09/19/HDU-1085-multiple-knapsack-problem/)
 
+[HDU 4870 Rating](https://blog.whff521.xyz/2024/10/15/HDU-4870-%E6%A6%82%E7%8E%87DP/)
+
 ### 卡特兰数
 
 [HDU 1023 Train Problem 高精度卡特兰数](https://blog.whff521.xyz/2024/09/16/HDU-1023-Train-Problem-II-%E9%AB%98%E7%B2%BE%E5%BA%A6%E5%8D%A1%E7%89%B9%E5%85%B0%E6%95%B0/)
