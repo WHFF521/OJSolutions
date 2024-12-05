@@ -1,14 +1,7 @@
 #include<iostream>
-#include<cstdio>
 #include<map>
 #include<vector>
-#include<cmath>
 #include<string>
-#include<queue>
-#include<algorithm>
-#include<iomanip>
-#include<cstring>
-#include<functional>
 #define ll long long
 using namespace std;
 
